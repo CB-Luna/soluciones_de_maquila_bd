@@ -18934,11 +18934,11 @@ freely, subject to the following restrictions:
 3. This notice may not be removed or altered from any source distribution.
 
 --------------------------------------------------------------------------------
-video_thumbnail_imageview
+video_thumbnail
 
 MIT License
 
-Copyright (c) 2019 Prashant Padmani
+Copyright (c) 2019 John Zhong
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
